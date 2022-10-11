@@ -40,7 +40,7 @@ UPSTREAM_REPO = getenv(
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
-GIT_TOKEN = getenv("GIT_TOKEN", ("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")
+GIT_TOKEN = getenv("GIT_TOKEN", ("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")
 
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/DevilsHeavenMF")
